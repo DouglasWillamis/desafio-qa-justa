@@ -1,0 +1,11 @@
+{
+  "name": "desafio-qa-justa",
+  "version": "1.0.0",
+  "description": "Desafio técnico para QA's na Justa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Douglas Willamis",
+  "license": "MIT"
+}
