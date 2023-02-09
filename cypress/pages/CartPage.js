@@ -11,7 +11,7 @@ class CartPage {
     }
 
     checkout() {
-        this.elements.checkoutBtn().click()
+        this.elements.checkoutBtn().click();
     }
 }
 
