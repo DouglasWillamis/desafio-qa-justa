@@ -35,7 +35,7 @@ Repositório com testes automatizados para WEB utilizando o framework: Cypress
 
 - Instale todas as dependências utilizando npm:
 
-`cd /desafio-qa-justa`
+`cd desafio-qa-justa/`
 
 `npm install -D`
 
