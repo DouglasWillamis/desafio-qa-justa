@@ -54,7 +54,3 @@ Repositório com testes automatizados para WEB utilizando o framework: Cypress
 - Para executar o cypress em modo headless é só utilizar o comando abaixo no terminal
 
 `npm run cy:run-specs`
-
-> Notas
-
-- Comando para ver os reports gerados para o allure `allure serve` (comando deve ser rodado na pasta raiz do projeto)
